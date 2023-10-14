@@ -1,6 +1,6 @@
 # SimpleDNN
 
-This is a single dense layered DNN that is trained with a sample dataset that has a relationship defined in it.
+This is a single dense layered DNN that is trained with a sample dataset that has a relationship defined within it.
 
 If X is 2, then y is 5
 If x is 4, then y is 9 & so on
